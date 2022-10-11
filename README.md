@@ -3,9 +3,9 @@
 Aplicar o método de Transfer Learning em uma rede de Deep Learning na linguagem Python no ambiente COLAB. 
 
 
-###Descrição do Desafio###
+### Descrição do Desafio ###
  
-####Projeto de Transfer Learning em Python#### 
+#### Projeto de Transfer Learning em Python #### 
 O projeto consiste em aplicar o método de Transfer Learning em uma rede de Deep Learning na linguagem Python no ambiente COLAB.  
 
 Para exemplo, utilizaremos o seguinte projeto que realiza Transfer Learning com o Dataset do MNIST: 
@@ -23,13 +23,13 @@ Observações: Neste projeto, você pode usar sua própria base de dados (exempl
 
 O projeto deve ser enviado para o GitHub da DIO: https://github.com/digitalinnovationone.
 
-####Slides####
+#### Slides ####
 A apresentação completa utilizada neste módulo está disponível AQUI
 Com isso, você terá acesso a todos os slides e links explorados durante as aulas.
 
 Bons estudos! wink
 
-####GitHub####
+#### GitHub ####
 Todo código-fonte desenvolvido durante o curso foi versionado no GitHub, no seguinte endereço:
 
 github.com/diegobrunoDIO/diegobrunoDIO/projects
