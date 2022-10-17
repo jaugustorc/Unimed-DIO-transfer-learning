@@ -27,5 +27,5 @@ O projeto deve ser enviado para o GitHub da DIO: https://github.com/digitalinnov
 
 
 
-#### Conclusão #### ####
+#### Conclusão #### 
 Neste colab, pode-se perceber a facilidade de treinamento e ajuste na RNA utilizando o Transfer Learning. Através de poucas épocas obtém um resultado muito satisfatório.
