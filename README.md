@@ -19,7 +19,7 @@ Já o dataset para download pode ser acessado por meio deste outro link:
 
 https://www.microsoft.com/en-us/download/details.aspx?id=54765. 
 
-> O dataset recomendado tinha algumas figuras corrompido, com isto utilizei o sequinte dataset https://storage.googleapis.com/mledu-datasets/cats_and_dogs_filtered.zip 
+> O dataset recomendado tinha algumas figuras corrompido, com isto utilizei o seguinte dataset https://storage.googleapis.com/mledu-datasets/cats_and_dogs_filtered.zip 
 
 Observações: Neste projeto, você pode usar sua própria base de dados (exemplo: fotos suas, dos seus pais, dos seus amigos, dos seus animais domésticos, etc), o exemplo de gatos e cachorros, pode ser substituído por duas outras classes do seu interesse. O Dataset criado em nosso projeto anterior, pode ser utilizado agora.  
 
@@ -27,5 +27,5 @@ O projeto deve ser enviado para o GitHub da DIO: https://github.com/digitalinnov
 
 
 
-#### Conclução ####
-Neste colab, pode-se perceber a facilidade de treinamento e ajuste na RNA utilizando o Transfer Learning. Atavez de poucas epocas obtem um ressultado muito satisfarotio.
+#### Conclusão #### ####
+Neste colab, pode-se perceber a facilidade de treinamento e ajuste na RNA utilizando o Transfer Learning. Através de poucas épocas obtém um resultado muito satisfatório.
